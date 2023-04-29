@@ -15,6 +15,9 @@ The corresponding pushdown automaton as define with the following transitions:
 - $\delta (S_{2}, b, a) \to S_{2}/\epsilon$
 - $\delta (S_{3}, \epsilon, Z) \to S_{3}/\epsilon$
 
+The stack starts with $Z$.
+$S_{0}$ is the starting state whilst $S_{3}$ is the terminal state.
+
 @author: Alvin Tang <dev@alvinylt.net>
 
 @last-updated: 2023-04-29
